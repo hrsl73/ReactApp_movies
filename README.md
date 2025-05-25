@@ -21,21 +21,7 @@ A responsive React-based movie discovery application using the [TMDB API](https:
 - **API:** [TMDB (The Movie Database)](https://www.themoviedb.org/)
 - **Styling:** CSS
 
-## 📂 Folder Structure
 
-ReactApp_movies/
-├── public/
-├── src/
-│ ├── components/
-│ ├── pages/
-│ │ ├── Home.jsx
-│ │ └── Favorites.jsx
-│ ├── App.jsx
-│ ├── App.css
-│ └── main.jsx
-├── .env
-├── package.json
-└── README.md
 
 
 ## ⚙️ Getting Started
